@@ -5,3 +5,4 @@ llama-index-vector-stores-chroma
 datasets
 llama-index-vector-stores-chroma
 numpy==1.24.4
+llama-index-tools-google
